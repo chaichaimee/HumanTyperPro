@@ -1,12 +1,14 @@
 # HumanTyper Pro - Realistic Content Simulator
 
-HumanTyper Pro เป็นเครื่องมือจำลองการพิมพ์แบบมนุษย์จริง ๆ  
-มีระดับความเร็วที่แตกต่างกัน, การหยุดพักตามธรรมชาติ, และข้อผิดพลาดในการพิมพ์ (typos) ที่ปรับแต่งได้  
-ช่วยให้เนื้อหาที่สร้างดูเหมือนมนุษย์เขียนจริง ไม่ใช่ AI-generated
+HumanTyper Pro is a tool that simulates realistic human typing.  
+It features variable typing speeds, natural pauses, and customizable typing errors (typos).  
+This helps make generated content look like it was written by a real human instead of being AI-generated.
 
-## 1. การติดตั้งและตั้งค่าเริ่มต้น
+## 1. Installation and Initial Setup
 
-เพียงดาวน์โหลดไฟล์ทั้งหมดและเปิด `index.html` ด้วยเบราว์เซอร์ (Chrome, Firefox, Edge ฯลฯ) ได้เลย ไม่ต้องติดตั้งอะไรเพิ่มเติม  
-รองรับการใช้งานแบบ offline 100%
+Just download all the files and open `index.html` with any browser (Chrome, Firefox, Edge, etc.).  
+No additional installation is required.
 
-### โครงสร้างไฟล์ที่จำเป็น
+Fully supports 100% offline usage.
+
+### Required File Structure
